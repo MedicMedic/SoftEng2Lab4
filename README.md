@@ -4,6 +4,7 @@ You are a software developer working on an e-commerce platform that sells variou
 Each furniture type might have its own unique shipping cost calculation logic. For example, chairs might be lightweight and have a flat shipping rate, while sofas might be bulky and require a distance-based shipping cost calculation. Implementing separate shipping logic within each furniture class would lead to tight coupling and difficulty adding new furniture types in the future.
 
 # UML Diagram
+![Blank diagram (2)](https://github.com/MedicMedic/SoftEng2Lab4/assets/142379309/7a0d8a22-1ddd-444c-bfb0-2077f79837ea)
 
 ## Getting Started
 
