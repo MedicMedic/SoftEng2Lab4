@@ -1,7 +1,7 @@
 
 public interface ShippingCostVisitor 
 {
-    double visit(Chair chair);
-    double visit(Table table);
-    double visit(Sofa sofa);
+    double accept(Chair chair);
+    double accept(Table table);
+    double accept(Sofa sofa);
 }

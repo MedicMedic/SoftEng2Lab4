@@ -10,6 +10,6 @@ public class Sofa implements Furniture {
     }
 
     public double accept(ShippingCostVisitor visitor) {
-        return visitor.visit(this);
+        return visitor.accept(this);
     }
 }
